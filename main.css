@@ -18,3 +18,25 @@ header p {
     margin-top: 0;
     margin-bottom: 0;
 }
+
+h3 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.card-container {
+    height: 300px;
+    width: 300px;
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+
+.card-container img {
+    height: 300px;
+    width: 300px
+}
+
+.card-text-box {
+    border: 0.5px solid gray;
+    margin-top: -4px;
+}
