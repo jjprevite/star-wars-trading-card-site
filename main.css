@@ -1,0 +1,20 @@
+body {
+    color: black;
+    font-family: Roboto, sans-serif;
+}
+header {
+    background-color: #E6BC5A;
+    margin-top: 0;
+    padding: 10px 20px;
+}
+
+header h1 {
+    font-size: 1.75em;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+header p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
