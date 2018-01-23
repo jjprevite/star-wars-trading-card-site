@@ -5,6 +5,7 @@ body {
 header {
     background-color: #E6BC5A;
     margin-top: 0;
+    margin-bottom: 10px;
     padding: 10px 20px;
 }
 
@@ -19,24 +20,30 @@ header p {
     margin-bottom: 0;
 }
 
-h3 {
-    margin-top: 0;
-    margin-bottom: 0;
-}
-
 .card-container {
-    height: 300px;
-    width: 300px;
+    height: 100%;
+    width: 100%;
     margin-top: 20px;
-    margin-bottom: 60px;
 }
 
 .card-container img {
-    height: 300px;
-    width: 300px
+    height: 100%;
+    width: 100%;
 }
 
 .card-text-box {
-    border: 0.5px solid gray;
+    border: 0.5px solid #cac3c3;
     margin-top: -4px;
+}
+
+.card-title {
+    margin-top: 20px;
+    margin-bottom: 0;
+    margin-left: 20px;
+}
+
+.card-subtitle {
+    margin-left: 20px;
+    margin-top: 5px;
+    margin-bottom: 20px;
 }
